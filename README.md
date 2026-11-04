@@ -33,12 +33,14 @@ When I do, I will probably use QMK. I also want to include a virtual pet on the 
 
 ## BOM
 
-- 6x Cherry MX Switches
-- 6x DSA Keycaps
-- 1x 0.91" 128x32 OLED Display
-- 1x EC11 Rotary Encoder
-- 1x XIAO RP2040
-- 4x M3 bolts
-- 4x M3 heat-set threaded inserts
+- 6x [Cherry MX Switches](https://www.amazon.com/Deftomo-Keyboard-Switches-Mechanical-Replacement/dp/B0FSWLNL21) (~$0.96)
+- 6x [DSA Keycaps](https://www.amazon.com/Mechkeeb-Profile-Switches-Keyboard-Replacement/dp/B0BWDTBF1L) (~$2.25)
+- 1x [0.91" 128x32 OLED Display](https://www.amazon.com/dp/B0F3CXTWZT) (~$7.99)
+- 1x [EC11 Rotary Encoder](https://www.amazon.com/DIYhz-Rotary-Encoder-Digital-Potentiometer/dp/B07D3DF8TK) (~$1.00)
+- 1x [XIAO RP2040](https://www.seeedstudio.com/XIAO-RP2040-v1-0-p-5026.html) (~$3.99)
+- 4x [M3 bolts](https://www.amazon.com/Machine-Screws-Countersunk-Phillips-Assortment/dp/B0CCPH974T) (~$0.07)
+- 4x [M3 heat-set threaded inserts](https://www.amazon.com/dp/B0FDKYTMZ8) (~$0.26)
 - 1x Case (2 3D printed parts) (Print the [case](production/Case.stl) and [lid](production/Lid.stl)).
-- 1x PCB (2 layer) (The gerbers is [here](production/gerbers.zip)).
+- 1x PCB (2 layer) (The gerbers are [here](production/gerbers.zip)). Can be manufactured by a company such as [JLCPCB](https://jlcpcb.com) (~$2.00).
+
+**Estimated total: ~$18.52** (prorated from multi-packs, so you'll actually pay more up front for the full packs).

@@ -31,7 +31,7 @@ The PCB was made in KiCad. I added a ground plane.
 I have not wrote the firmware yet and I will when my PCB arrives from JclPcb.
 When I do, I will probably use QMK. I also want to include a virtual pet on the screen and make it wake and sleep based on if you are typing or not.
 
-## Parts needs
+## BOM
 
 - 6x Cherry MX Switches
 - 6x DSA Keycaps
@@ -40,5 +40,5 @@ When I do, I will probably use QMK. I also want to include a virtual pet on the 
 - 1x XIAO RP2040
 - 4x M3 bolts
 - 4x M3 heat-set threaded inserts
-- 1x Case (2 3D printed parts)
-- 1x PCB (2 layer)
+- 1x Case (2 3D printed parts) (Print the [case](production/Case.stl) and [lid](production/Lid.stl)).
+- 1x PCB (2 layer) (The gerbers is [here](production/gerbers.zip)).

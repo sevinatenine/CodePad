@@ -28,8 +28,8 @@ The PCB was made in KiCad. I added a ground plane.
 
 ## Firmware
 
-I have not wrote the firmware yet and I will when my PCB arrives from JclPcb.
-When I do, I will probably use QMK. I also want to include a virtual pet on the screen and make it wake and sleep based on if you are typing or not.
+The firmware is built for CircuitPython and the code is in the [`firmware`](./firmware) folder.
+You will need to install CircuitPython on the device and the necessary librarie, then upload the [`code.py`](./firmware/code.py).
 
 ## Parts needs
 
